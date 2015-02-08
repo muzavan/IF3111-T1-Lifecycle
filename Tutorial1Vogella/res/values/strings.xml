@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tutorial1Vogella</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="layar_kedua">Layar Kedua</string>
+    <string-array name="operating_systems">
+        <item >Ubuntu</item>
+        <item >Android</item>
+        <item >iOS</item>
+    </string-array>
+        <string name="start_new_activity">Start new Activity</string>
+
+</resources>
